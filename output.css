@@ -304,6 +304,11 @@ table {
 3. Remove default padding in all browsers.
 */
 
+ol{
+  color: #da7d20;
+  text-align: center;
+}
+
 button,
 input,
 optgroup,
