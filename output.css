@@ -130,6 +130,11 @@
   /* 2 */
 }
 
+ol{
+  color: #da7d20;
+  text-align: center;
+}
+
 ::before,
 ::after {
   --tw-content: '';
